@@ -10,6 +10,18 @@ header{
     background: white;
     padding: 20px;
 }
+.green-glow {
+    border: 4px solid rgb(64, 226, 113);
+    box-shadow: 0 0 10px rgb(26, 233, 95);
+}
+.red-glow {
+    border: 4px solid rgb(226, 64, 64);
+    box-shadow: 0 0 10px rgb(226, 64, 64);
+}
+.gray-glow {
+    border: 4px solid rgb(226, 169, 64);
+    box-shadow: 0 0 10px rgb(226, 169, 64);
+}
 header > h1{
     color: #25272E;
     text-align: center;
